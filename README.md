@@ -10,7 +10,9 @@ My interests span:
 * ⚙️ Architecting and building custom **game engines**.
 * 🔗 The innovative potential of **blockchain technology**.
 
-### 💻 My Tech Stack
+<h3 align="center">
+  ### 💻 My Tech Stack
+</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
