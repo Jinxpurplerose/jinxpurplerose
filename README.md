@@ -1,8 +1,7 @@
 ### Привет! Меня зовут [Ваше Имя] 👋
 
 <p align="left">
-  <a href="https://linkedin.com/in/ВАШ-ПРОФИЛЬ" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
-  <a href="https://t.me/ВАШ-НИК" target="blank"><img align="center" src="https://skillicons.dev/icons?i=telegram" alt="telegram" /></a>
+  <a href="https://t.me/newWorld_close" target="blank"><img align="center" src="https://skillicons.dev/icons?i=telegram" alt="telegram" /></a>
 </p>
 
 ---
