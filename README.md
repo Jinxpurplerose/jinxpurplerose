@@ -13,10 +13,5 @@ My interests span:
 ### 💻 My Tech Stack
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,go,js,ts,react,vue,nextjs,threejs,html,css,unity,figma,ae,blender,c4d,matlab,pytorch,docker,kubernetes&perline=11" />
-</a>
-
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,go,js,ts,react,vue,nextjs,threejs,html,css,unity,figma,ae,blender,pytorch&perline=9" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,go,js,ts,react,vue,nextjs,threejs,html,css,unity,figma,ae,blender,matlab,pytorch,docker,kubernetes&perline=11" />
 </a>
