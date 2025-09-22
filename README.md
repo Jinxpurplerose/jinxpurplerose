@@ -38,7 +38,7 @@ My interests span:
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
       <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
-      <img src="https://img.shields.io/badge/anime.js-FFC300?style=for-the-badge&logo=animejs&logoColor=black" alt="anime.js"/>
+      <img src="https://img.shields.io/badge/anime.js-FFC300?style=for-the-badge&logo=animejs&logoColor=black" alt="anima.js"/>
     </td>
   </tr>
     <tr>
