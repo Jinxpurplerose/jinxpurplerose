@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  I'm truly passionate about **visual computing** and exploring its frontiers!
+  I'm truly passionate about <span font_weight=bold>visual computing</span> and exploring its frontiers!
 </h3>
 
 <p align="center">
