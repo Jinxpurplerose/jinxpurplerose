@@ -20,6 +20,6 @@ My interests span:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,python,go,js,ts,react,vue,nextjs,threejs,html,css,unity,figma,ae,blender,matlab,pytorch,docker,kubernetes&perline=11" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,python,go,js,ts,react,vue,nextjs,threejs,html,css,unity,bevy,ae,blender,matlab,pytorch,docker,kubernetes&perline=11" />
   </a>
 </p>
