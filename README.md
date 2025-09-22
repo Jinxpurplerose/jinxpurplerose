@@ -26,5 +26,5 @@
 ### Моя статистика на GitHub:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИКНЕЙМ&show_icons=true&theme=radical" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jinxpurplerose&show_icons=true&theme=radical" alt="github stats" />
 </p>
