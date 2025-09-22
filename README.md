@@ -11,7 +11,7 @@ My interests span:
 * 🔗 The innovative potential of **blockchain technology**.
 
 <h3 align="center">
-  ### 💻 My Tech Stack
+  💻 My Tech Stack
 </h3>
 
 <p align="center">
