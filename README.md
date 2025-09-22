@@ -1,4 +1,4 @@
-### Привет! Меня зовут [Ваше Имя] 👋
+### 
 
 <p align="left">
   <a href="https://t.me/newWorld_close" target="blank"><img align="center" src="https://skillicons.dev/icons?i=telegram" alt="telegram" /></a>
@@ -6,12 +6,7 @@
 
 ---
 
-Я фронтенд-разработчик из Москвы, увлеченный созданием красивых и функциональных веб-приложений.
 
-- 🔭 **Сейчас работаю над:** проектом для онлайн-обучения на React и TypeScript.
-- 🌱 **Сейчас изучаю:** Next.js и как работают CI/CD пайплайны.
-- 📫 **Как со мной связаться:** [my-email@example.com](mailto:my-email@example.com)
-- ⚡ **Интересный факт:** В свободное время я люблю ходить в походы и фотографировать природу.
 
 ### Мои технологии:
 
@@ -27,3 +22,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jinxpurplerose&show_icons=true&theme=radical" alt="github stats" />
 </p>
+
+<a href="https://www.python.org" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</a>
+<a href="https://www.docker.com" target="_blank">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</a>
