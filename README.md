@@ -5,12 +5,12 @@
 I'm truly passionate about **visual computing** and exploring its frontiers!
 
 My interests span:
-- 🖥️ Deep dives into **GPU architecture** and performance.
-- 🎨 Crafting intricate **shaders** for 2D and 3D graphics.
-- 🧠 Leveraging **AI** to push creative boundaries and innovate.
-- 🎮 The exciting world of **game development**.
-- ⚙️ Architecting and building custom **game engines**.
-- 🔗 The innovative potential of **blockchain technology**.
+<br>🖥️ Deep dives into **GPU architecture** and performance.
+<br>🎨 Crafting intricate **shaders** for 2D and 3D graphics.
+<br>🧠 Leveraging **AI** to push creative boundaries and innovate.
+<br>🎮 The exciting world of **game development**.
+<br>⚙️ Architecting and building custom **game engines**.
+<br>🔗 The innovative potential of **blockchain technology**.
 
 </div>
 
