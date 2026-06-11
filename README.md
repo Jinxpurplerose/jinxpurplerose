@@ -1,1 +1,1 @@
-I like gpu's and gpahics
+I like gpu's and graphics
